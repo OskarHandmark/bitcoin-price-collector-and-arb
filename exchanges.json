@@ -1,0 +1,44 @@
+{
+    "active": 
+    [
+        {
+            "name": "Okcoincny",
+            "shortable": true
+        },
+        {
+            "name": "Huobi",
+            "shortable": true
+        },
+        {
+            "name": "BTCC",
+            "shortable": true
+        }
+    ],
+    "disabled": 
+    [
+        {
+            "name": "chbtc",
+            "shortable": true
+        },
+        {
+            "name": "btc100",
+            "shortable": true
+        },
+        {
+            "name": "Bitstamp",
+            "shortable": false
+        },
+        {
+            "name": "Bitfinex",
+            "shortable": true
+        },
+        {
+            "name": "Gemini",
+            "shortable": false
+        },
+        {
+            "name": "Btce",
+            "shortable": false
+        }
+    ]
+}
